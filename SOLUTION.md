@@ -1,3 +1,3 @@
 ## SOLUTION
 
-Please document your solution here
+![alt text](http://url/to/img.png)
