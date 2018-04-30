@@ -58,4 +58,6 @@ The app comprises of two views: **Feed** and **FullScreen**.
 [SDWebImage](https://github.com/rs/SDWebImage)
 
 **Screenshots are uploaded to the repository**
+
+
 **Apurva Kochar**
