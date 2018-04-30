@@ -9,6 +9,9 @@
 import UIKit
 import CoreData
 
+/*
+ for storing and fetching urls in offline mode
+ */
 class CoreDataHelper {
     
     fileprivate var managedContext: NSManagedObjectContext?
