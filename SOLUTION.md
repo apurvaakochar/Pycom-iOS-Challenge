@@ -18,10 +18,6 @@ The app comprises of two views: **Feed** and **FullScreen**.
 
 • Activity Indicators are shown when a feed is loaded
 
-![alt text](https://raw.githubusercontent.com/apurvaakochar/Pycom-iOS-Challenge/master/feed.png)
-
-![alt text](https://raw.githubusercontent.com/apurvaakochar/Pycom-iOS-Challenge/master/fullscreen.png)
-
 ### Architecture
 
 • MVVM-R was used, wherein R stands for Router, which manages the navigation and data transfer between views 
@@ -61,4 +57,5 @@ The app comprises of two views: **Feed** and **FullScreen**.
 
 [SDWebImage](https://github.com/rs/SDWebImage)
 
+**Screenshots are uploaded to the repository**
 **Apurva Kochar**
