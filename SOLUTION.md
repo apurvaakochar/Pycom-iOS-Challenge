@@ -1,3 +1,3 @@
 ## SOLUTION
 
-![alt text](http://url/to/img.png)
+![alt text](https://ibb.co/eBVtBx)
