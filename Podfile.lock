@@ -15,15 +15,20 @@ PODS:
   - AFNetworking/UIKit (3.1.0):
     - AFNetworking/NSURLSession
   - FlickrKit (1.0.9)
+  - SDWebImage (4.3.0):
+    - SDWebImage/Core (= 4.3.0)
+  - SDWebImage/Core (4.3.0)
 
 DEPENDENCIES:
   - AFNetworking
   - FlickrKit
+  - SDWebImage (~> 4.0)
 
 SPEC CHECKSUMS:
   AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
   FlickrKit: 79ffaf64a12293ba2b1aa8a2e53a4958cb113256
+  SDWebImage: 6da6c8bca115addc4de8613362e1b15f66333825
 
-PODFILE CHECKSUM: 3c75030f860731bcd49f0991b224e570c64200ae
+PODFILE CHECKSUM: 1ae14822b7672e27cd6ae3b8fafed7e27f4f7dd4
 
-COCOAPODS: 1.3.1
+COCOAPODS: 1.4.0
