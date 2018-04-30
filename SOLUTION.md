@@ -18,9 +18,9 @@ The app comprises of two views: **Feed** and **FullScreen**.
 
 • Activity Indicators are shown when a feed is loaded
 
-![alt text](https://raw.githubusercontent.com/apurvaakochar/Pycom-iOS-Challenge/blob/master/feed.png)
+![alt text](https://raw.githubusercontent.com/apurvaakochar/Pycom-iOS-Challenge/master/feed.png)
 
-![alt text](https://raw.githubusercontent.com/apurvaakochar/Pycom-iOS-Challenge/blob/master/fullscreen.png)
+![alt text](https://raw.githubusercontent.com/apurvaakochar/Pycom-iOS-Challenge/master/fullscreen.png)
 
 ### Architecture
 
