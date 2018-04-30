@@ -38,7 +38,7 @@ The app comprises of two views: **Feed** and **FullScreen**.
 
 • Closures were used for Observer Mechanism
 
-![alt text](https://raw.githubusercontent.com/apurvaakochar/Pycom-iOS-Challenge/blob/master/PycomiOSChallenge.png)
+![alt text](https://raw.githubusercontent.com/apurvaakochar/Pycom-iOS-Challenge/master/PycomiOSChallenge.png)
 
 
 ### Unit Tests
@@ -51,11 +51,11 @@ The app comprises of two views: **Feed** and **FullScreen**.
 
 ### Xib vs. Storyboards
 
-• In this scenario, both .Xib and Storyboards could have been used
+• In this scenario, both .xib and Storyboards could have been used
 
 • Storyboards were chosen as there were very few pages
 
-• However, in case of multiple developers or too many pages, I prefer to use .Xib, as storyboards are slow and less flexible
+• However, in case of multiple developers or too many pages, I prefer to use .xib, as storyboards are slow and less flexible
 
 ### Libraries
 
